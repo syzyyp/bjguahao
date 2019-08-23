@@ -140,6 +140,24 @@ useQPython3: "false"
 
 开发者请将`config.yaml`配置文件中的`DebugLevel`参数设置为`debug`
 
+## 加入我们
+
+在使用过程中有任何问题建议，或者贡献代码，请加入交流群
+
+![image](https://github.com/iBreaker/bjguahao/raw/master/img/qq-qun.png)
+
+## 致谢
+
+感谢 [yiqian987](https://github.com/yiqian987) 修改 [issues#27](https://github.com/iBreaker/bjguahao/issues/27)
+
+感谢 [coeusite](https://github.com/coeusite) 支持android挂号 [pull#56](https://github.com/iBreaker/bjguahao/pull/56)
+
+感谢 [cuteapi](https://github.com/cuteapi) 添加 iphone mac 验证码自动获取的功能，抢号神器哦
+
+感谢 [cxl008](https://github.com/cxl008) 更新登录以及获取验证码代码
+
+若遗漏了您，请发邮件通知我 <791628659@qq.com>
+
 ## 协议
 
 ![](https://www.gnu.org/graphics/gplv3-127x51.png)
